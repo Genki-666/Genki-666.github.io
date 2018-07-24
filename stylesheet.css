@@ -1,0 +1,28 @@
+.title {
+  color: #02ccba;
+  text-align: center;
+}
+
+.container {
+  height : 100px+auto;
+  width : 100%;
+  background-color: #000000;
+}
+
+.container p {
+  color : white;
+  text-align: center;
+}
+
+.mein-container {
+  height : 800px;
+  width : 100%;
+  text-align: center;
+}
+
+.mein-container h1 {
+  font-size : 40px;
+  padding : 20px;
+  background-color: #C0C0C0;
+  display: inline-block;
+}
